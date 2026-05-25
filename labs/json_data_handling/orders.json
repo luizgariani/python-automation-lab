@@ -1,0 +1,30 @@
+[
+  {
+    "customer_name": "Maria Silva",
+    "customer_email": "maria@email.com",
+    "order_id": "BR123456",
+    "status": "shipped",
+    "tracking_code": "PX987654321BR"
+  },
+  {
+    "customer_name": "João Santos",
+    "customer_email": "joao@email.com",
+    "order_id": "BR654321",
+    "status": "processing",
+    "tracking_code": null
+  },
+  {
+    "customer_name": "Ana Oliveira",
+    "customer_email": "ana@email.com",
+    "order_id": "BR789123",
+    "status": "delivered",
+    "tracking_code": "PX123456789BR"
+  },
+  {
+    "customer_name": "Carlos Lima",
+    "customer_email": "carlos@email.com",
+    "order_id": "BR000999",
+    "status": "canceled",
+    "tracking_code": null
+  }
+]
